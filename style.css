@@ -1,4 +1,4 @@
-#firstHeader {
+#first-header {
   position: fixed;
   float: left;
   top: 0;
@@ -8,11 +8,11 @@
   background-color: purple;
 }
 
-#firstParagraph {
+#first-paragraph {
   margin-left: 15px;
 }
 
-.fixedHeader {
+.fixed-header {
   margin-left: 15px;
 }
 
@@ -26,12 +26,12 @@
   height: 220px;
 }
 
-.standEchoes {
+.stand-echoes {
   width: 210px;
   height: 210px;
 }
 
-.sadMan {
+.sad-man {
   height: 2000px;
   width: 500px;
 }
