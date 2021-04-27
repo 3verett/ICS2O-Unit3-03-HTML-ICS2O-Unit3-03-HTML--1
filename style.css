@@ -1,0 +1,31 @@
+#firstHeader {
+  position: fixed;
+  float: left;
+  top: 0;
+  left: 0;
+  border: 1px solid black;
+  width: 100%;
+  background-color: purple;
+}
+#firstParagraph {
+  margin-left: 15px;
+}
+.fixedHeader {
+  margin-left: 15px;
+}
+.column {
+  display: inline-block;
+  margin-top: 90px;
+}
+.koichi {
+  width: 220px;
+  height: 220px;
+}
+.standEchoes {
+  width: 210px;
+  height: 210px;
+}
+.sadMan {
+  height: 2000px;
+  width: 500px;
+}
